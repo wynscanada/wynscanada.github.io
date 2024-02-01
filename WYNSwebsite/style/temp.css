@@ -1,0 +1,58 @@
+html {
+    background-color: #E3F0E4;
+}
+
+nav img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    size: 1em;
+}
+
+main {
+    text-align: center;
+    padding-top: 15%;
+    font-family: "Barlow"
+}
+
+h1 {
+    display: block;
+    size: 2em;
+    letter-spacing: 5px;
+    font-family: "Playfair Display"
+}
+
+h3 {
+    display: block;
+    size: 1em;
+    font-family: "Barlow";
+    margin-top: -1.5%;
+}
+
+body p{
+    background-color: #8DB18C;
+    text-align: center;
+    width: 10%;
+    margin: auto;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+
+body p:hover{
+    background-color: #233F14;
+    a {
+        color: white;
+    }
+}
+
+.animate__animated.animate__slideInDown {
+    --animate-duration: 3s;
+}
+
+
